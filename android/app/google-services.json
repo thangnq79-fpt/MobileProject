@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "600364208024",
+    "project_id": "tesma-f9631",
+    "storage_bucket": "tesma-f9631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600364208024:android:9086c80a4f4a0b790f65ed",
+        "android_client_info": {
+          "package_name": "com.example.tesma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600364208024-51c3dk34fo0dn1nsmcll11sspktee8jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesma",
+            "certificate_hash": "8103dd0dd1fe3796a7715a8b2400bab46732da08"
+          }
+        },
+        {
+          "client_id": "600364208024-ml6lsq7fbrlsef6ve5d4qn552su59lnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesma",
+            "certificate_hash": "325c46fbe1d9a2dd9577a974eba67a348fc0076b"
+          }
+        },
+        {
+          "client_id": "600364208024-oaf9lbnlsqc089lh7e5r4j1n5i981vpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesma",
+            "certificate_hash": "ba58bead441bfe6eb665bf9305cbd6f55e565e12"
+          }
+        },
+        {
+          "client_id": "600364208024-qfe96pkr96kqakp5628nqjtd5pm78r85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesma",
+            "certificate_hash": "979760c949aee37160464390028a41eeba38639e"
+          }
+        },
+        {
+          "client_id": "600364208024-pllr8tbrg34nb2641ce37vg6ni8c1d3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVXxjl3n-8uZdqjl37qTB8b3SbMobeIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600364208024-pllr8tbrg34nb2641ce37vg6ni8c1d3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
